@@ -20,7 +20,7 @@ require 'conexion.php';
 #Query de busqueda
 $buscar="SELECT *FROM CONTACTOS WHERE registro LIKE '%$buscador%'";
 
-#Preparació
+#Preparación 
 $resultado=$conexion->prepare ($buscar);
 $resultado->execute(array($buscador));
 
