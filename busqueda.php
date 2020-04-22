@@ -8,7 +8,6 @@
 </head>
 <body>
 <!--PROYECTO REALIZADO POR:-->
-<!--Lillian Maria Machuca Chavarria-->
 <!--Edgar Eliam Santos-->
 <!--PROGRAMACION ORIENTADA A OBJETOS-->
 <!--Lic. Eduardo Vallejo-->
